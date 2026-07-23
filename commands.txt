@@ -1,7 +1,12 @@
 "create a new repository on the command line"
-
+#one time to start the project
 git init
+
+# everytime to add
 git add .
+
+#evertime you commit
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Masiat12/my-first-github.git
